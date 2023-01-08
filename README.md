@@ -12,7 +12,7 @@ To help the organization, I attempt to build a model to predict whether a new pr
 <h2>Languages and Libraries Used</h2>
 
 - Python
-- [List of libraries](https://github.com/graphshade/donorschoose/blob/main/requirements.txt)
+- [List of Libraries](https://github.com/graphshade/donorschoose/blob/main/requirements.txt)
 
 <h2>Environment Used </h2>
 
@@ -47,7 +47,7 @@ The estimated historical gain from implementing the model is presented in the ch
  git clone https://github.com/graphshade/donorschoose.git
  ```
  
-2. Set up a virtual environment and install the required packages.
+2. Set up a virtual environment and install the [required libraries](https://github.com/graphshade/donorschoose/blob/main/requirements.txt)
 
 3. Run the boston_house_project.ipynb in the script folder using Jupyter notebook
  
