@@ -31,6 +31,11 @@ To help the organization, I attempt to build a model to predict whether a new pr
 1. First, Donors Choose should rank project proposals on its “find a class to support” page by the magnitude of the predicted probability of excitement of the project. In effect,  projects with a higher probability of excitement get seen more and get more donations per impression
 2. Second, Donors Choose should apply the findings around features that influence exciting projects to create a guideline for teachers on how to craft winning project proposals. 
 
+The estimated historical gain from implementing the model is presented in the chart below.
+
+<img src="https://github.com/graphshade/donorschoose/blob/main/results/Historical%20gain%20in%20exciting%20projects%20if%20analytical%20solution%20is%20operationalized.png" />
+
+
 
 <h2>Reproducing the Analysis:</h2>
 
