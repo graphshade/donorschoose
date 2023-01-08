@@ -47,6 +47,8 @@ The estimated historical gain from implementing the model is presented in the ch
  git clone https://github.com/graphshade/donorschoose.git
  ```
  
-3. Install Required Libraries Using Virtual Environment. You may install the libraries directly on your computer however, using the virtual environment is preferred
+2. Set up a virtual environment and install the required packages.
+
+3. Run the boston_house_project.ipynb in the script folder using Jupyter notebook
  
-3. Because the dataset is large, use the tuning_all_params.py file in the param_tuning_job folder to tune the models via a batch job.
+4. Because the dataset is large, use the tuning_all_params.py file in the param_tuning_job folder to tune the models via a batch job.
