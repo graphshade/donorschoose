@@ -6,7 +6,6 @@
 The current annual rate of donation project proposals that end-up fully funded at Donor's Choose is about 15%. That means, 75 out of every 100 projects are not fully funded and deemed not exciting. The organization's mission is to help teachers fund projects they need, and if 75% of those projects end up not fully funded, is Donor's Choose achieving its mission? The chart above, showing the historical distribution of exciting projects versus nonexciting projects, visually illustrates the problem the organization faces. 
 
 There is a need for management of Donor's Choose to understand what attributes make certain projects exciting and what attributes make donors repeat donors. 
-
 <br></br>
 To help the organization, I attempt to build a model to predict whether a new project proposal is exciting or not exciting. Lastly, I used descriptive analysis and clustering to understand what characteristics make certain donors repeat donors.
 
@@ -29,10 +28,9 @@ To help the organization, I attempt to build a model to predict whether a new pr
 
 <h2>Recommendations:</h2>
 
-Based on the findings, the following recommendations were made:
-1. Operate the model at the 50% predictive probability of default threshold. At this level, the selected model can identify 63% of loan default cases. Historically, this could saved $3 million in loan defaults.This saving in loan default is computed without taking into consideration the cost of associated with wrongly classifying a non-default loan as default. Specifically, operating at the 50% threshold results into wrongly classing 9 out of every 100 observations
+1. First, Donors Choose should rank project proposals on its “find a class to support” page by the magnitude of the predicted probability of excitement of the project. In effect,  projects with a higher probability of excitement get seen more and get more donations per impression
+2. Second, Donors Choose should apply the findings around features that influence exciting projects to create a guideline for teachers on how to craft winning project proposals. 
 
-2. The customer service department may use the predicted probability of default to segment borrowers and device an outreach campaign targeted at the various segments. For instance, for customers with high probability of default, the customer service department may constantly follow up to understand their financial situation and help them restructure their payment plan
 
 <h2>Reproducing the Analysis:</h2>
 
