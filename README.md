@@ -49,6 +49,6 @@ The estimated historical gain from implementing the model is presented in the ch
  
 2. Set up a virtual environment and install the [required libraries](https://github.com/graphshade/donorschoose/blob/main/requirements.txt)
 
-3. Run the boston_house_project.ipynb in the script folder using Jupyter notebook
+3. Run the donors_choose.ipynb in the script folder using Jupyter notebook
  
 4. Because the dataset is large, use the tuning_all_params.py file in the param_tuning_job folder to tune the models via a batch job.
