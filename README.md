@@ -1,6 +1,6 @@
 # Predicting Exciting Donation Projects
 
-<img src="https://github.com/graphshade/donorschoose/blob/main/results/Historical%20distribution%20of%20exciting%20versus%20non-exciting%20projects.png" />
+![](https://github.com/graphshade/donorschoose/blob/main/results/Historical%20distribution%20of%20exciting%20versus%20non-exciting%20projects.png)
 
 <h2>Problem statement</h2>
 The current annual rate of donation project proposals that end-up fully funded at Donor's Choose is about 15%. That means, 75 out of every 100 projects are not fully funded and deemed not exciting. The organization's mission is to help teachers fund projects they need, and if 75% of those projects end up not fully funded, is Donor's Choose achieving its mission? The chart above, showing the historical distribution of exciting projects versus nonexciting projects, visually illustrates the problem the organization faces. 
@@ -33,8 +33,7 @@ To help the organization, I attempt to build a model to predict whether a new pr
 
 The estimated historical gain from implementing the model is presented in the chart below.
 
-<img src="https://github.com/graphshade/donorschoose/blob/main/results/Historical%20gain%20in%20exciting%20projects%20if%20analytical%20solution%20is%20operationalized.png" />
-
+![](https://github.com/graphshade/donorschoose/blob/main/results/Historical%20gain%20in%20exciting%20projects%20if%20analytical%20solution%20is%20operationalized.png)
 
 
 <h2>Reproducing the Analysis:</h2>
